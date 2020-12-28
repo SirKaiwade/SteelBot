@@ -12,6 +12,7 @@ var CurrentMessage = new Discord.Message();
 var CurrentMessageArgs = [];
 
 Bot.login("NTQxNTg1OTI3NTU5MTg0Mzg1.XLIrpQ.figCPZrlal9acmLHAADV79Sjbr0");
+// I reset the token - the above token is inactive so as not to pose a security risk
 
 var Commands =
 {
