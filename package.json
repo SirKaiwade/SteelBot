@@ -1,0 +1,17 @@
+{
+  "name": "steel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "dependencies": {
+    "discord-bot-wrapper": "^0.2.4",
+    "discord.js": "^11.4.2",
+    "node.js": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
